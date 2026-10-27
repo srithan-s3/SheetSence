@@ -5,7 +5,7 @@ application built for a Web Programming mini-project. React renders analysis
 returned by Flask and Pandas; uploaded files and sample files use the same pipeline.
 Core functionality requires no account, paid service, API key, or external AI.
 
-## What you can do
+What you can do
 
 - Upload `.csv`, `.xlsx`, or legacy `.xls` files and choose an Excel worksheet.
 - Inspect paginated records, search records on the server, and review inferred types.
